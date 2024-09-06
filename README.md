@@ -24,11 +24,11 @@
  
    -  [x] Introdução ao Ruby(1hr)
    -  [x] Conceitos de Ruby(1hrs)
-   -  [ ] Criando o seu Primeiro Projeto com Ruby(1hr)
-   -  [ ] Estruturas de Controle em Ruby(2hr)
-   -  [ ] Desafios Básicos #1 Formação Ruby(1hr)
-   -  [ ] Criando uma Calculadora com Ruby(1hr)
-   -  [ ] Materiais Complementares: Conhecendo a Linguagem Ruby(1hr)
+   -  [x] Criando o seu Primeiro Projeto com Ruby(1hr)
+   -  [x] Estruturas de Controle em Ruby(2hr)
+   -  [x] Desafios Básicos #1 Formação Ruby(1hr)
+   -  [x] Criando uma Calculadora com Ruby(1hr)
+   -  [x] Materiais Complementares: Conhecendo a Linguagem Ruby(1hr)
   
 </details>
 <details>
