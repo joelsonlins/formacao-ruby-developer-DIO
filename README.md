@@ -20,7 +20,7 @@
 
 <h2 id="modulos">🗃 Módulos</h2>
 <details>
-  <summary>Conheecndo a Linguagem Ruby (7 atividades)</summary>
+  <summary>✅Conheecndo a Linguagem Ruby (7 atividades)</summary>
  
    -  [x] Introdução ao Ruby(1hr)
    -  [x] Conceitos de Ruby(1hrs)
@@ -32,54 +32,54 @@
   
 </details>
 <details>
-  <summary>Avançando na Linguagem Ruby(6 atividades)</summary>
+  <summary>✅Avançando na Linguagem Ruby(6 atividades)</summary>
 
-   -  [ ] Colações em Ruby(2hrs)
-   -  [ ] Cálculo com Potência em Ruby(1hr)
-   -  [ ] Métodos e Gems(1hr)
-   -  [ ] Criando um Programa para Consulta de CPF com Ruby(1hr)
-   -  [ ] Desafios Básicos #2 Formação Ruby(1hr)
-   -  [ ] Materiais complementares: Avançando na Linguagem Ruby(1hr)
+   -  [x] Colações em Ruby(2hrs)
+   -  [x] Cálculo com Potência em Ruby(1hr)
+   -  [x] Métodos e Gems(1hr)
+   -  [x] Criando um Programa para Consulta de CPF com Ruby(1hr)
+   -  [x] Desafios Básicos #2 Formação Ruby(1hr)
+   -  [x] Materiais complementares: Avançando na Linguagem Ruby(1hr)
 
 </details>
 <details>
- <summary>Programação Orientada a Objetos com Ruby (5 Atividades)</summary>
+ <summary>✅Programação Orientada a Objetos com Ruby (5 Atividades)</summary>
          
-   -  [ ] Introdução à POO em Ruby(2hrs)
-   -  [ ] Modelando um Domínio de Negódios com Ruby(1hr)
-   -  [ ] Desafios Intermediários #3 Formação Ruby(1hr)
-   -  [ ] Criando uma Dinâmica de Mercado com POO em Ruby(1hr)
-   -  [ ] Materiais Complementares: Programação Orientada a Objetos com Ruby(1hr)
+   -  [x] Introdução à POO em Ruby(2hrs)
+   -  [x] Modelando um Domínio de Negódios com Ruby(1hr)
+   -  [x] Desafios Intermediários #3 Formação Ruby(1hr)
+   -  [x] Criando uma Dinâmica de Mercado com POO em Ruby(1hr)
+   -  [x] Materiais Complementares: Programação Orientada a Objetos com Ruby(1hr)
 
 </details>
 
 <details>
- <summary>Conhecendo o Ruby on Rails (4 Atividades)</summary>
+ <summary>✅Conhecendo o Ruby on Rails (4 Atividades)</summary>
          
-   -  [ ] Introdução à Arquitetura MVC(1hr)
-   -  [ ] Comandos Básicos no Ruby on rails(2hr)
-   -  [ ] Criando o seu Blog com Ruby on rails(1hr)
-   -  [ ] Materiais Complementares: Conhecendo o Ruby on Rails(1hr)
+   -  [x] Introdução à Arquitetura MVC(1hr)
+   -  [x] Comandos Básicos no Ruby on rails(2hr)
+   -  [x] Criando o seu Blog com Ruby on rails(1hr)
+   -  [x] Materiais Complementares: Conhecendo o Ruby on Rails(1hr)
 
 </details>
 
 <details>
- <summary>Explorando Clouseres e Expressões Regulares com Ruby (4 Atividades)</summary>
+ <summary>✅Explorando Clouseres e Expressões Regulares com Ruby (4 Atividades)</summary>
 
-   -  [ ] Closure(1hr)
-   -  [ ] Expressões Regulares(1hr)
-   -  [ ] Qual é o seu Whatsapp?(1hr)
-   -  [ ] Materiais Complementares: Conceitos Avançados em Ruby
+   -  [x] Closure(1hr)
+   -  [x] Expressões Regulares(1hr)
+   -  [x] Qual é o seu Whatsapp?(1hr)
+   -  [x] Materiais Complementares: Conceitos Avançados em Ruby
          
 </details>
 
 <details>
  <summary>Primeiros Passos na Comunicação web em Ruby (4 Atividades)</summary>
 
-   -  [ ] Introdução à Comunicação Web em Ruby(2hrs)
-   -  [ ] Analisando Páginas HTML em Ruby com a Biblioteca Nokogiri(1hr)
-   -  [ ] Materiais Complementares: Comunicação em Ruby
-   -  [ ] Avalie a Formação de Ruby Developer
+   -  [x] Introdução à Comunicação Web em Ruby(2hrs)
+   -  [x] Analisando Páginas HTML em Ruby com a Biblioteca Nokogiri(1hr)
+   -  [x] Materiais Complementares: Comunicação em Ruby
+   -  [x] Avalie a Formação de Ruby Developer
          
 </details>
 
@@ -88,5 +88,8 @@
 <h2 id="tecnologias">🛠 Tecnologias e Ferramentas Utilizadas</h2>
 
 1. <a href="https://code.visualstudio.com/" target="_blank">VS Code</a>
+2. <a href="https://ruby-doc.org/" target="_blank">Documentação Ruby</a>
+3. <a href="https://rubyonrails.org/" target="_blank">Ruby on Rails</a>
+4. <a href="https://nokogiri.org/#reading" target="_blank">nokogiri</a>
 
 <h2 id="certificado">👨🏾‍🎓 ✅Certificado de Conclusão</h2>
